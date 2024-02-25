@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListyCity5</string>
+    <string name="add_city">Add City</string>
+    <string name="city">City</string>
+    <string name="province">Province</string>
+    <string name="long_press_on_the_city_to_delete">Long press on the city to delete</string>
+</resources>
